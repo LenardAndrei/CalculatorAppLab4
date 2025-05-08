@@ -6,7 +6,7 @@
 
 ## Sample Output
 
-## ##  <a id = "contrib"> 👨‍💻 Contributors </a> <br>
+##  <a id = "contrib"> 👨‍💻 Contributors </a> <br>
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
 | <a href = "https://github.com/CambaRalphVincent">Camba, Ralph Vincent</a> | Developer | 23-02389@g.batstate-u.edu.ph|   |
