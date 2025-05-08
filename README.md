@@ -1,6 +1,7 @@
 # CalculatorAppLab4
 
 ## Project Description and Features
+Lenard Andrei
 
 ## Instructions on Running the App
 
